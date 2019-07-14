@@ -46,11 +46,11 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/dejonghe/aws-batch-example',
+    url='https://github.com/assethurajan/aws-batch-example',
 
     # Author details
-    author='Derek DeJonghe',
-    author_email='mittendevelopment@gmail.com',
+    author='Sethu rajan',
+    author_email='sethurajanas@gmail.com',
 
     # Choose your license
     license='Apache2.0',
